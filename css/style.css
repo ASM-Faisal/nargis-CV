@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left .photo{
+    border-radius: 50%;
+    margin: 50px 0 20px 100px;
+    background: white;
+    border: 5px solid black; 
+}
+.social-icon{
+    margin-left: 80px;
+    
+}
+.social-icon a{
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+    
+}
+.social-icon a:hover{
+    color: white;
+
+}
+.exp{
+    padding-top: 150px;
+}
+.edu{
+    padding-top: 80px;
+    padding-left: 70px;
+}
+.tra{
+    padding-top: 80px;
+    padding-left: 50px;
+}
